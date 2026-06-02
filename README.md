@@ -12,7 +12,7 @@ Aunque tengo formación como Full-Stack (UTN) y comprendo el funcionamiento del 
 ### 🎨 [SHenP Web](https://shenp.vercel.app)
 **Repositorio:** [github.com/terminedev/SHenP-Web](https://github.com/terminedev/SHenP-Web)
 
-SHenP Web es mi proyecto principal y más reciente. Es una plataforma dedicada a la preservación y difusión del legado artístico de la comunidad "Series hechas en Paint"(SHenP). 
+SHenP Web es mi primer proyecto principal. Es una plataforma dedicada a la preservación y difusión del legado artístico de la comunidad "Series hechas en Paint"(SHenP). 
 * **Mi rol:** Desarrollo Front-end principal y organizador de la base de datos.
 
 
