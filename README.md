@@ -4,7 +4,12 @@
 **Full-Stack de formación, Front-end por elección.**
 
 
-Aunque tengo formación como Full-Stack (UTN) y comprendo el funcionamiento del Back-end (Node.js, MongoDB), mi objetivo actual y donde más disfruto trabajar es en el desarrollo del lado del cliente. Me considero una persona adaptable, enfocada en la resolución de problemas y con una fuerte capacidad para el trabajo en equipo, habilidades que forjé durante mis 3 años de experiencia en entornos de alta demanda (ajenos a la programación).
+Aunque comprendo el funcionamiento del Back-end (Node.js, MongoDB), mi objetivo actual y donde más
+disfruto trabajar es en el desarrollo del lado del cliente. 
+A través de mis 3 años de experiencia laboral en atención al cliente y entornos de alta exigencia, he
+desarrollado una fuerte capacidad de adaptación, trabajo en equipo y resolución de problemas. Busco mi
+primera oportunidad en IT para aportar soluciones a desafíos reales y seguir creciendo técnicamente
+dentro de un equipo de desarrollo.
 
 
 ## 🚀 Proyectos Destacados
